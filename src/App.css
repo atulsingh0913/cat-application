@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
+
+.category-list{
+  width: 20%;
+  float: left;
+  margin-top: 10%;
+}
+
+.category-list .item{
+  margin-top: 10%;
+}
+
+.cat-list{
+  width: 80%;
+  float: left;
+}
+
+.cat-list .item{
+  width: 50%;
+  float: left;
+  padding: 1% 0px 3% 0;
+}
+
+.category-name{
+  margin: 20px 0px;
+}
+
+.back-button{
+  margin: 3% 0 2% 11%;
+  text-align: left;
+  cursor: pointer;
+}
+
+.category-page .cat-list{
+  width: 100%;
+}
+
+.category-page .cat-list img{
+  cursor: pointer;
+}
+
+.cat-details-page .cat-details img{
+  float: left;
+  margin-left: 12%;
+  width: 40%;
+}
+
+.cat-other-details{
+  display: inline-block;
+  margin-top: 3%;
+  padding: 3%;
+}
+
+.cat-other-details div{
+    padding: 3%;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

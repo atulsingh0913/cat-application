@@ -1,0 +1,18 @@
+{
+    "categories": [
+      {
+        "code": "birman",
+        "name": "Birman"
+      }
+    ],
+    "cats": [
+      {
+        "name": "Atul",
+        "code": "atul",
+        "category": "birman",
+        "age": 5,
+        "color": "black",
+        "image": "/url"
+      }
+    ]
+  }
